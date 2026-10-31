@@ -1,0 +1,4 @@
+model,accuracy,train_time_sec
+Linear,0.72,0.1
+Forest,0.89,2.3
+Net,0.94,45.6
